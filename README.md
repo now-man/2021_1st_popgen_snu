@@ -7,3 +7,10 @@
 <snupopgen21.github.io>
 <https://snupopgen21.github.io>
 [snupopgen21.github.io][https://snupopgen.github.io]
+
+
+[https://snupopgen.github.io][snupopgen21.github.io]
+
+[snupopgen21.github.io](https://snupopgen21.github.io)
+
+[https://snupopgen21.github.io](snupopgen21.github.io)
